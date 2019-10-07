@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Feature" parallel="false">
+  <test name="UnitLevelTest">
+    <classes>
+      <class name="com.a.b.AppTest"/>
+      <class name="com.a.b.AppTest1"/>
+      <class name="com.a.b.AppTest2"/>
+      <class name="com.a.b.AppTest3"/>
+    </classes>
+  </test>
+</suite>
+
+
